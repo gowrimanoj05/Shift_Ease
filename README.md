@@ -35,7 +35,7 @@ npm install
 Create a `.env` file in the backend directory:
 ```env
 PORT=5000
-MONGODB_URI=mongodb+srv://username:password@cluster.mongodb.net/shiftease
+MONGODB_URI=MONGODB_URI
 JWT_SECRET=your_super_secret_jwt_key
 DIALOGFLOW_PROJECT_ID=your-dialogflow-project-id
 DIALOGFLOW_CLIENT_EMAIL=your-service-account@project.iam.gserviceaccount.com
